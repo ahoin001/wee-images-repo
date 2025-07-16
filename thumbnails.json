@@ -6,6 +6,12 @@
     "tags": ["ArkhamCity", "chat", "voice", "social", "app", "communication"]
   },
   {
+    "name": "AmazonMusic",
+    "format": "image",
+    "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/amazon_music_wii.png",
+    "tags": ["AmazonMusic", "chat", "voice", "social", "app", "communication"]
+  },
+  {
     "name": "BeamMP",
     "format": "image",
     "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/beammp_wii.png",
