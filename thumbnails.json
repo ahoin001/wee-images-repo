@@ -105,7 +105,13 @@
     "name": "Razer Synapse",
     "format": "image",
     "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/razer%20synapse.gif",
-    "tags": ["palworld", "chat", "voice", "social", "app", "communication"]
+    "tags": ["razersynapse", "chat", "voice", "social", "app", "communication"]
+  },
+  {
+    "name": "Roblox",
+    "format": "image",
+    "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/roblox_wii.png",
+    "tags": ["roblox", "chat", "voice", "social", "app", "communication"]
   },
   {
     "name": "Slack",
