@@ -143,6 +143,12 @@
     "url": "https://ahoin001.github.io/wee-images-repo/thumbnails/wii-empty-channel.mp4",
     "tags": ["wiiemptychannel", "chat", "voice", "social", "app", "communication"]
   },
+   {
+    "name": "Whatsapp",
+    "format": "image",
+    "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/whatsapp_wii.png",
+    "tags": ["whatsapp", "chat", "voice", "social", "app", "communication"]
+  },
   {
     "name": "Youtube",
     "format": "image",
