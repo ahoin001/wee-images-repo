@@ -1,5 +1,11 @@
 [
   {
+    "name": "ArkhamCity",
+    "format": "image",
+    "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/arkhamcity_wii.png",
+    "tags": ["ArkhamCity", "chat", "voice", "social", "app", "communication"]
+  },
+  {
     "name": "BeamMP",
     "format": "image",
     "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/beammp_wii.png",
