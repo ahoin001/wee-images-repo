@@ -89,6 +89,12 @@
     "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/geometry_dash_wii.png",
     "tags": ["geometrydash", "chat", "voice", "social", "app", "communication"]
   },
+   {
+    "name": "GoogleChrome",
+    "format": "gif",
+    "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/Google_Chrome_wii.gif",
+    "tags": ["googlechrome", "chat", "voice", "social", "app", "communication"]
+  },
   {
     "name": "Helldivers 2",
     "format": "image",
