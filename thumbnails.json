@@ -72,6 +72,12 @@
     "tags": ["EpicGamesStore", "chat", "voice", "social", "app", "communication"]
   },
   {
+    "name": "Epic Games Store",
+    "format": "image",
+    "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/epic.gif",
+    "tags": ["EpicGamesStore", "chat", "voice", "social", "app", "communication"]
+  },
+  {
     "name": "ETS2",
     "format": "image",
     "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/ets2_wii.png",
