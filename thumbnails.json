@@ -1,92 +1,92 @@
 [
   {
+    "name": "BeamNG.Drive",
+    "format": "image",
+    "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/beamng_wii.png",
+    "tags": ["beamng.drive", "chat", "voice", "social", "app", "communication"]
+  },
+  {
     "name": "Brave",
     "format": "video",
     "url": "https://raw.githubusercontent.com/Rydrew/wee-images-repo-ryder/main/thumbnails/Brave.mp4",
     "tags": ["brave", "chat", "voice", "social", "app", "communication"]
-  },  
-    {
-      "name": "Discord",
-      "format": "gif",
-      "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/discord-0.gif",
-      "tags": ["discord", "chat", "voice", "social", "app", "communication"]
-    },
-    {
-      "name": "Discord",
-      "format": "image",
-      "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/discord-0.png",
-      "tags": ["discord", "chat", "voice", "social", "app", "communication"]
-    },
-    {
-      "name": "Discord",
-      "format": "image",
-      "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/discord-1.png",
-      "tags": ["discord", "chat", "voice", "social", "app", "communication"]
-    },
-    {
-      "name": "Helldivers 2",
-      "format": "image",
-      "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/helldivers-0.png",
-      "tags": ["helldivers", "chat", "voice", "social", "app", "communication"]
-    },
-    {
-      "name": "Left 4 Dead 2",
-      "format": "image",
-      "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/left-4-dead.png",
-      "tags": ["Left 4 Dead 2", "chat", "voice", "social", "app", "communication"]
-    },
-    {
-      "name": "Palworld",
-      "format": "image",
-      "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/Palworld.png",
-      "tags": ["palworld", "chat", "voice", "social", "app", "communication"]
-    },
-    {
-      "name": "Razer Synapse",
-      "format": "image",
-      "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/razer%20synapse.gif",
-      "tags": ["palworld", "chat", "voice", "social", "app", "communication"]
-    },
-    {
-      "name": "Spotify",
-      "format": "gif",
-      "url": "https://raw.githubusercontent.com/Rydrew/wee-images-repo-ryder/main/thumbnails/Spotify_Channel.gif",
-      "tags": ["spotify", "chat", "voice", "social", "app", "communication"]
-    },
-    {
-      "name": "Spotify",
-      "format": "gif",
-      "url": "https://raw.githubusercontent.com/Rydrew/wee-images-repo-ryder/main/thumbnails/Spotify_Channel.gif",
-      "tags": ["spotify", "chat", "voice", "social", "app", "communication"]
-    },
-    {
-      "name": "Steam",
-      "format": "video",
-      "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/steam-steam-deck.mp4",
-      "tags": ["steam", "chat", "voice", "social", "app", "communication"]
-    },
-    {
-      "name": "Telegram",
-      "format": "image",
-      "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/telegram.png",
-      "tags": ["Telegram", "chat", "voice", "social", "app", "communication"]
-    },
-    {
-      "name": "TemTem",
-      "format": "image",
-      "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/temtem.png",
-      "tags": ["temtem", "chat", "voice", "social", "app", "communication"]
-    }
+  },
   {
-      "name": "ETS2",
-      "format": "image",
-      "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/ets2_wii.png",
-      "tags": ["ets2", "chat", "voice", "social", "app", "communication"]
-    },
+    "name": "Discord",
+    "format": "gif",
+    "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/discord-0.gif",
+    "tags": ["discord", "chat", "voice", "social", "app", "communication"]
+  },
   {
-      "name": "BeamNG.Drive",
-      "format": "image",
-      "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/beamng_wii.png",
-      "tags": ["beamng.drive", "chat", "voice", "social", "app", "communication"]
-    },
-  ]
+    "name": "Discord",
+    "format": "image",
+    "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/discord-0.png",
+    "tags": ["discord", "chat", "voice", "social", "app", "communication"]
+  },
+  {
+    "name": "Discord",
+    "format": "image",
+    "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/discord-1.png",
+    "tags": ["discord", "chat", "voice", "social", "app", "communication"]
+  },
+  {
+    "name": "ETS2",
+    "format": "image",
+    "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/ets2_wii.png",
+    "tags": ["ets2", "chat", "voice", "social", "app", "communication"]
+  },
+  {
+    "name": "Helldivers 2",
+    "format": "image",
+    "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/helldivers-0.png",
+    "tags": ["helldivers", "chat", "voice", "social", "app", "communication"]
+  },
+  {
+    "name": "Left 4 Dead 2",
+    "format": "image",
+    "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/left-4-dead.png",
+    "tags": ["Left 4 Dead 2", "chat", "voice", "social", "app", "communication"]
+  },
+  {
+    "name": "Palworld",
+    "format": "image",
+    "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/Palworld.png",
+    "tags": ["palworld", "chat", "voice", "social", "app", "communication"]
+  },
+  {
+    "name": "Razer Synapse",
+    "format": "image",
+    "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/razer%20synapse.gif",
+    "tags": ["palworld", "chat", "voice", "social", "app", "communication"]
+  },
+  {
+    "name": "Spotify",
+    "format": "gif",
+    "url": "https://raw.githubusercontent.com/Rydrew/wee-images-repo-ryder/main/thumbnails/Spotify_Channel.gif",
+    "tags": ["spotify", "chat", "voice", "social", "app", "communication"]
+  },
+  {
+    "name": "Spotify",
+    "format": "gif",
+    "url": "https://raw.githubusercontent.com/Rydrew/wee-images-repo-ryder/main/thumbnails/Spotify_Channel.gif",
+    "tags": ["spotify", "chat", "voice", "social", "app", "communication"]
+  },
+  {
+    "name": "Steam",
+    "format": "video",
+    "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/steam-steam-deck.mp4",
+    "tags": ["steam", "chat", "voice", "social", "app", "communication"]
+  },
+  {
+    "name": "Telegram",
+    "format": "image",
+    "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/telegram.png",
+    "tags": ["Telegram", "chat", "voice", "social", "app", "communication"]
+  },
+  {
+    "name": "TemTem",
+    "format": "image",
+    "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/temtem.png",
+    "tags": ["temtem", "chat", "voice", "social", "app", "communication"]
+  }
+]
