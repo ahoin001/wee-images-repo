@@ -71,6 +71,12 @@
     "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/fileexplorer.png",
     "tags": ["FileExplorer", "chat", "voice", "social", "app", "communication"]
   },
+  {
+    "name": "Firefox",
+    "format": "image",
+    "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/firefox_wii.png",
+    "tags": ["Firefox", "chat", "voice", "social", "app", "communication"]
+  },
    {
     "name": "GeometryDash",
     "format": "image",
