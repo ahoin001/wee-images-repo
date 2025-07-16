@@ -60,6 +60,12 @@
     "tags": ["discord", "chat", "voice", "social", "app", "communication"]
   },
   {
+    "name": "Destiny2",
+    "format": "image",
+    "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/destiny2_wii.png",
+    "tags": ["destiny2", "chat", "voice", "social", "app", "communication"]
+  },
+  {
     "name": "EpicGamesStore",
     "format": "image",
     "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/epicgamesstore.png",
