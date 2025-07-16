@@ -36,9 +36,22 @@
       "tags": ["palworld", "chat", "voice", "social", "app", "communication"]
     },
     {
+      "name": "Razer Synapse",
+      "format": "image",
+      "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/Palworld.png",
+      "tags": ["palworld", "chat", "voice", "social", "app", "communication"]
+    },
+    {
       "name": "TemTem",
       "format": "image",
       "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/temtem.png",
       "tags": ["temtem", "chat", "voice", "social", "app", "communication"]
-    }  
+    },
+    ,
+    {
+      "name": "Telegram",
+      "format": "image",
+      "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/temtem.png",
+      "tags": ["temtem", "chat", "voice", "social", "app", "communication"]
+    }    
   ]
