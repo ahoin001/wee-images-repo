@@ -53,4 +53,10 @@
       "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/temtem.png",
       "tags": ["temtem", "chat", "voice", "social", "app", "communication"]
     }  
+     {
+      "name": "Brave",
+      "format": "video",
+      "url": "https://raw.githubusercontent.com/Rydrew/wee-images-repo-ryder/main/thumbnails/Brave.mp4",
+      "tags": ["brave", "chat", "voice", "social", "app", "communication"]
+    }  
   ]
