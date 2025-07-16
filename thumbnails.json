@@ -59,6 +59,12 @@
     "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/ets2_wii.png",
     "tags": ["ets2", "chat", "voice", "social", "app", "communication"]
   },
+   {
+    "name": "FileExplorer",
+    "format": "image",
+    "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/fileexplorer.png",
+    "tags": ["FileExplorer", "chat", "voice", "social", "app", "communication"]
+  },
   {
     "name": "Helldivers 2",
     "format": "image",
