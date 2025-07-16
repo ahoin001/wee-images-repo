@@ -150,10 +150,16 @@
     "tags": ["Minecraft", "chat", "voice", "social", "app", "communication"]
   },
    {
-    "name": "MarvelRivals",
+    "name": "Marvel Rivals",
     "format": "image",
     "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/marvelerivals_wii.png",
     "tags": ["MarvelRivals", "chat", "voice", "social", "app", "communication"]
+  },
+  {
+    "name": "Marvel Rivals",
+    "format": "mp4",
+    "url": "https://ahoin001.github.io/wee-images-repo/thumbnails/marvel-rivals.mp4",
+    "tags": ["steam", "chat", "voice", "social", "app", "communication"]
   },
   {
     "name": "Netflix",
