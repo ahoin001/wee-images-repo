@@ -25,8 +25,8 @@
   },
   {
     "name": "Brave",
-    "format": "video",
-    "url": "https://raw.githubusercontent.com/Rydrew/wee-images-repo-ryder/main/thumbnails/Brave.mp4",
+    "format": "mp4",
+    "url": "https://ahoin001.github.io/wee-images-repo/thumbnails/brave-browser.mp4",
     "tags": ["brave", "chat", "voice", "social", "app", "communication"]
   },
   {
@@ -157,8 +157,8 @@
   },
   {
     "name": "Steam",
-    "format": "video",
-    "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/steam-steam-deck.mp4",
+    "format": "mp4",
+    "url": "https://ahoin001.github.io/wee-images-repo/thumbnails/steam-steam-deck.mp4",
     "tags": ["steam", "chat", "voice", "social", "app", "communication"]
   },
   {
