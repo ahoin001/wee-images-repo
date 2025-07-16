@@ -24,6 +24,12 @@
     "tags": ["brave", "chat", "voice", "social", "app", "communication"]
   },
   {
+    "name": "ClashOfClans",
+    "format": "image",
+    "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/coc_wii.png",
+    "tags": ["ClashOfClans", "chat", "voice", "social", "app", "communication"]
+  },
+  {
     "name": "Discord",
     "format": "gif",
     "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/discord-0.gif",
