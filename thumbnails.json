@@ -186,6 +186,12 @@
     "tags": ["temtem", "chat", "voice", "social", "app", "communication"]
   },
   {
+    "name": "VisualStudioCode",
+    "format": "image",
+    "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/VisualStudioCodeFancy.png",
+    "tags": ["VisualStudioCode", "chat", "voice", "social", "app", "communication"]
+  },
+  {
     "name": "WiiEmptyChannel",
     "format": "mp4",
     "url": "https://ahoin001.github.io/wee-images-repo/thumbnails/wii-empty-channel.mp4",
