@@ -97,7 +97,7 @@
   },
   {
     "name": "WiiEmptyChannel",
-    "format": "video",
+    "format": "mp4",
     "url": "https://ahoin001.github.io/wee-images-repo/thumbnails/wii-empty-channel.mp4",
     "tags": ["wiiemptychannel", "chat", "voice", "social", "app", "communication"]
   }
