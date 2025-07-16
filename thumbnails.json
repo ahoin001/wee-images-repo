@@ -1,4 +1,9 @@
-[
+[{
+  "name": "Davinci Resolve",
+  "format": "mp4",
+  "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/temtem.png",
+  "tags": ["davinci", "chat", "voice", "social", "app", "communication"]
+},
     {
       "name": "Discord",
       "format": "gif",
@@ -18,15 +23,27 @@
       "tags": ["discord", "chat", "voice", "social", "app", "communication"]
     },
     {
+      "name": "Helldivers 2",
+      "format": "image",
+      "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/helldivers-0.png",
+      "tags": ["helldivers", "chat", "voice", "social", "app", "communication"]
+    },
+    {
+      "name": "Left 4 Dead 2",
+      "format": "image",
+      "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/left-4-dead.png",
+      "tags": ["Left 4 Dead 2", "chat", "voice", "social", "app", "communication"]
+    },
+    {
       "name": "Palworld",
       "format": "image",
       "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/Palworld.png",
       "tags": ["palworld", "chat", "voice", "social", "app", "communication"]
     },
     {
-      "name": "Helldivers 2",
+      "name": "TemTem",
       "format": "image",
-      "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/helldivers-0.png",
-      "tags": ["helldivers", "chat", "voice", "social", "app", "communication"]
+      "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/temtem.png",
+      "tags": ["temtem", "chat", "voice", "social", "app", "communication"]
     }  
   ]
