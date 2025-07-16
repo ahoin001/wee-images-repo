@@ -54,6 +54,12 @@
     "tags": ["Left 4 Dead 2", "chat", "voice", "social", "app", "communication"]
   },
   {
+    "name": "Netflix",
+    "format": "image",
+    "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/Netflix_wii.png",
+    "tags": ["Netflix", "chat", "voice", "social", "app", "communication"]
+  },
+  {
     "name": "Palworld",
     "format": "image",
     "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/Palworld.png",
