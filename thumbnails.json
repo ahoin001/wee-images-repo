@@ -60,6 +60,12 @@
     "tags": ["Netflix", "chat", "voice", "social", "app", "communication"]
   },
   {
+    "name": "OperaGX",
+    "format": "image",
+    "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/operagx_wii.png",
+    "tags": ["OperaGX", "chat", "voice", "social", "app", "communication"]
+  },
+  {
     "name": "Palworld",
     "format": "image",
     "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/Palworld.png",
