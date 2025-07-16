@@ -60,6 +60,12 @@
     "tags": ["discord", "chat", "voice", "social", "app", "communication"]
   },
   {
+    "name": "Destiny2",
+    "format": "image",
+    "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/destiny2_wii.png",
+    "tags": ["destiny2", "chat", "voice", "social", "app", "communication"]
+  },
+  {
     "name": "EpicGamesStore",
     "format": "image",
     "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/epicgamesstore.png",
@@ -82,6 +88,30 @@
     "format": "image",
     "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/firefox_wii.png",
     "tags": ["Firefox", "chat", "voice", "social", "app", "communication"]
+  },
+  {
+    "name": "Fortnite1",
+    "format": "image",
+    "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/fortnite_1.png",
+    "tags": ["Fortnite1", "chat", "voice", "social", "app", "communication"]
+  },
+  {
+    "name": "Fortnite2",
+    "format": "image",
+    "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/fortnite_2.png",
+    "tags": ["Fortnite2", "chat", "voice", "social", "app", "communication"]
+  },
+  {
+    "name": "Fortnite3",
+    "format": "image",
+    "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/fortnite_3.png",
+    "tags": ["Fortnite3", "chat", "voice", "social", "app", "communication"]
+  },
+  {
+    "name": "Fortnite4",
+    "format": "image",
+    "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/fortnite_4.png",
+    "tags": ["Fortnite4", "chat", "voice", "social", "app", "communication"]
   },
    {
     "name": "GeometryDash",
@@ -118,6 +148,12 @@
     "format": "image",
     "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/Minecraft_Launcher_wii.png",
     "tags": ["Minecraft", "chat", "voice", "social", "app", "communication"]
+  },
+   {
+    "name": "MarvelRivals",
+    "format": "image",
+    "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/marvelerivals_wii.png",
+    "tags": ["MarvelRivals", "chat", "voice", "social", "app", "communication"]
   },
   {
     "name": "Netflix",
@@ -168,6 +204,12 @@
     "tags": ["rockstargames", "chat", "voice", "social", "app", "communication"]
   },
   {
+    "name": "Rematch",
+    "format": "image",
+    "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/rematch.jpg",
+    "tags": ["rematch", "chat", "voice", "social", "app", "communication"]
+  },
+  {
     "name": "Slack",
     "format": "image",
     "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/slack_wii.png",
@@ -214,6 +256,12 @@
     "format": "image",
     "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/VisualStudioCodeFancy.png",
     "tags": ["VisualStudioCode", "chat", "voice", "social", "app", "communication"]
+  },
+    {
+    "name": "Valorent",
+    "format": "image",
+    "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/valorent_wii.gif",
+    "tags": ["Valorent", "chat", "voice", "social", "app", "communication"]
   },
   {
     "name": "WiiEmptyChannel",
