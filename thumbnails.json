@@ -150,6 +150,12 @@
     "tags": ["rocketleague", "chat", "voice", "social", "app", "communication"]
   },
   {
+    "name": "Rcps3",
+    "format": "image",
+    "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/rcps3.png",
+    "tags": ["rcps3", "chat", "voice", "social", "app", "communication"]
+  },
+  {
     "name": "Slack",
     "format": "image",
     "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/slack_wii.png",
