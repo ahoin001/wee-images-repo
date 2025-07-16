@@ -30,6 +30,12 @@
     "tags": ["brave", "chat", "voice", "social", "app", "communication"]
   },
   {
+    "name": "Chat Gpt",
+    "format": "mp4",
+    "url": "https://ahoin001.github.io/wee-images-repo/thumbnails/chatgpt.mp4",
+    "tags": ["spotify", "chat", "voice", "social", "app", "communication"]
+  },
+  {
     "name": "ClashOfClans",
     "format": "image",
     "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/coc_wii.png",
@@ -123,6 +129,12 @@
     "name": "GeometryDash",
     "format": "image",
     "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/geometry_dash_wii.png",
+    "tags": ["geometrydash", "chat", "voice", "social", "app", "communication"]
+  },
+  {
+    "name": "Git",
+    "format": "image",
+    "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/git.png",
     "tags": ["geometrydash", "chat", "voice", "social", "app", "communication"]
   },
    {
