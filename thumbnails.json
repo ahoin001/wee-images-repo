@@ -181,6 +181,12 @@
   },
   {
     "name": "Steam",
+    "format": "image",
+    "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/stem.webp",
+    "tags": ["steam", "chat", "voice", "social", "app", "communication"]
+  },
+  {
+    "name": "Steam",
     "format": "mp4",
     "url": "https://ahoin001.github.io/wee-images-repo/thumbnails/steam-deck.mp4",
     "tags": ["steam", "chat", "voice", "social", "app", "communication"]
