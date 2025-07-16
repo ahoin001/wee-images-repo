@@ -103,8 +103,8 @@
   },
   {
     "name": "Youtube",
-    "format": "mp4",
-    "url": "https://ahoin001.github.io/wee-images-repo/thumbnails/Youtube.mp4",
+    "format": "image",
+    "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/youtube.png",
     "tags": ["wiiemptychannel", "chat", "voice", "social", "app", "communication"]
   }
 ]
