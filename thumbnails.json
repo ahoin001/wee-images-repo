@@ -54,6 +54,18 @@
       "tags": ["spotify", "chat", "voice", "social", "app", "communication"]
     },
     {
+      "name": "Spotify",
+      "format": "gif",
+      "url": "https://raw.githubusercontent.com/Rydrew/wee-images-repo-ryder/main/thumbnails/Spotify_Channel.gif",
+      "tags": ["spotify", "chat", "voice", "social", "app", "communication"]
+    },
+    {
+      "name": "Steam",
+      "format": "video",
+      "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/steam-steam-deck.mp4",
+      "tags": ["steam", "chat", "voice", "social", "app", "communication"]
+    },
+    {
       "name": "Telegram",
       "format": "image",
       "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/telegram.png",
