@@ -89,4 +89,10 @@
       "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/beamng_wii.png",
       "tags": ["beamng.drive", "chat", "voice", "social", "app", "communication"]
     },
+  {
+      "name": "BeamMP",
+      "format": "image",
+      "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/beammp_wii.png",
+      "tags": ["beammp", "chat", "voice", "social", "app", "communication"]
+    },
   ]
