@@ -21,6 +21,12 @@
       "name": "Palworld",
       "format": "image",
       "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/Palworld.png",
-      "tags": ["palworld"]
+      "tags": ["palworld", "chat", "voice", "social", "app", "communication"]
+    },
+    {
+      "name": "Helldivers 2",
+      "format": "image",
+      "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/helldivers-0.png",
+      "tags": ["helldivers", "chat", "voice", "social", "app", "communication"]
     }  
   ]
