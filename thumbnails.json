@@ -38,8 +38,14 @@
     {
       "name": "Razer Synapse",
       "format": "image",
-      "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/Palworld.png",
+      "url": "https://github.com/ahoin001/wee-images-repo/blob/main/thumbnails/razer%20synapse.gif",
       "tags": ["palworld", "chat", "voice", "social", "app", "communication"]
+    },
+    {
+      "name": "Telegram",
+      "format": "image",
+      "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/telegram.png",
+      "tags": ["Telegram", "chat", "voice", "social", "app", "communication"]
     },
     {
       "name": "TemTem",
@@ -47,11 +53,5 @@
       "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/temtem.png",
       "tags": ["temtem", "chat", "voice", "social", "app", "communication"]
     },
-    ,
-    {
-      "name": "Telegram",
-      "format": "image",
-      "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/temtem.png",
-      "tags": ["temtem", "chat", "voice", "social", "app", "communication"]
-    }    
+       
   ]
