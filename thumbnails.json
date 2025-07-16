@@ -16,5 +16,11 @@
       "format": "image",
       "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/discord-1.png",
       "tags": ["discord", "chat", "voice", "social", "app", "communication"]
+    },
+    {
+      "name": "Palworld",
+      "format": "image",
+      "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/Palworld.png",
+      "tags": ["palworld"]
     }  
   ]
