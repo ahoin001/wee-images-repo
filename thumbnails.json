@@ -156,6 +156,12 @@
     "tags": ["rcps3", "chat", "voice", "social", "app", "communication"]
   },
   {
+    "name": "RockstarGames",
+    "format": "image",
+    "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/rockstar_games_wii.png",
+    "tags": ["rockstargames", "chat", "voice", "social", "app", "communication"]
+  },
+  {
     "name": "Slack",
     "format": "image",
     "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/slack_wii.png",
