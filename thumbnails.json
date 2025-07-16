@@ -168,6 +168,12 @@
     "tags": ["rockstargames", "chat", "voice", "social", "app", "communication"]
   },
   {
+    "name": "Rematch",
+    "format": "image",
+    "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/rematch.jpg",
+    "tags": ["rematch", "chat", "voice", "social", "app", "communication"]
+  },
+  {
     "name": "Slack",
     "format": "image",
     "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/slack_wii.png",
