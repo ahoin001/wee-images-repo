@@ -30,6 +30,12 @@
     "tags": ["ClashOfClans", "chat", "voice", "social", "app", "communication"]
   },
   {
+    "name": "Cyberpunk2077",
+    "format": "image",
+    "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/cyberpunk2077_wii.png",
+    "tags": ["Cyberpunk2077", "chat", "voice", "social", "app", "communication"]
+  },
+  {
     "name": "Discord",
     "format": "gif",
     "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/discord-0.gif",
