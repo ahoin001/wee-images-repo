@@ -180,6 +180,12 @@
     "tags": ["spotify", "chat", "voice", "social", "app", "communication"]
   },
   {
+    "name": "Spotify",
+    "format": "mp4",
+    "url": "https://ahoin001.github.io/wee-images-repo/thumbnails/spotify-0.mp4",
+    "tags": ["spotify", "chat", "voice", "social", "app", "communication"]
+  },
+  {
     "name": "Steam",
     "format": "image",
     "url": "https://ahoin001.github.io/wee-images-repo/thumbnails/steam.webp",
@@ -226,5 +232,17 @@
     "format": "image",
     "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/youtube.png",
     "tags": ["wiiemptychannel", "chat", "voice", "social", "app", "communication"]
+  },
+  {
+    "name": "Youtube",
+    "format": "mp4",
+    "url": "https://ahoin001.github.io/wee-images-repo/thumbnails/youtube-1.mp4",
+    "tags": ["spotify", "chat", "voice", "social", "app", "communication"]
+  },
+  {
+    "name": "Youtube",
+    "format": "mp4",
+    "url": "https://ahoin001.github.io/wee-images-repo/thumbnails/youtube-0.mp4",
+    "tags": ["spotify", "chat", "voice", "social", "app", "communication"]
   }
 ]
