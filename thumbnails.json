@@ -101,4 +101,10 @@
       "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/slack_wii.png",
       "tags": ["slack", "chat", "voice", "social", "app", "communication"]
     },
+  {
+      "name": "WiiEmptyChannel",
+      "format": "video",
+      "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/Wii_Empty_Channel_Animated.mp4",
+      "tags": ["wiiemptychannel", "chat", "voice", "social", "app", "communication"]
+    },
   ]
