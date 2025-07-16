@@ -89,6 +89,12 @@
     "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/geometry_dash_wii.png",
     "tags": ["geometrydash", "chat", "voice", "social", "app", "communication"]
   },
+   {
+    "name": "GoogleChrome",
+    "format": "gif",
+    "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/Google_Chrome_wii.gif",
+    "tags": ["googlechrome", "chat", "voice", "social", "app", "communication"]
+  },
   {
     "name": "Helldivers 2",
     "format": "image",
@@ -106,6 +112,12 @@
     "format": "image",
     "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/left-4-dead.png",
     "tags": ["Left 4 Dead 2", "chat", "voice", "social", "app", "communication"]
+  },
+  {
+    "name": "Minecraft",
+    "format": "image",
+    "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/Minecraft_Launcher_wii.png",
+    "tags": ["Minecraft", "chat", "voice", "social", "app", "communication"]
   },
   {
     "name": "Netflix",
@@ -144,6 +156,18 @@
     "tags": ["rocketleague", "chat", "voice", "social", "app", "communication"]
   },
   {
+    "name": "Rcps3",
+    "format": "image",
+    "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/rcps3.png",
+    "tags": ["rcps3", "chat", "voice", "social", "app", "communication"]
+  },
+  {
+    "name": "RockstarGames",
+    "format": "image",
+    "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/rockstar_games_wii.png",
+    "tags": ["rockstargames", "chat", "voice", "social", "app", "communication"]
+  },
+  {
     "name": "Slack",
     "format": "image",
     "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/slack_wii.png",
@@ -172,6 +196,12 @@
     "format": "image",
     "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/temtem.png",
     "tags": ["temtem", "chat", "voice", "social", "app", "communication"]
+  },
+  {
+    "name": "VisualStudioCode",
+    "format": "image",
+    "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/VisualStudioCodeFancy.png",
+    "tags": ["VisualStudioCode", "chat", "voice", "social", "app", "communication"]
   },
   {
     "name": "WiiEmptyChannel",
