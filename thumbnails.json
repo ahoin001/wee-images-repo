@@ -1,26 +1,20 @@
 [
     {
-      "name": "Steam",
-      "format": "image",
-      "url": "https://raw.githubusercontent.com/ahoin001/WiiLauncher-Assets/main/thumbnails/steam.png",
-      "tags": ["steam", "valve", "games", "store", "pc", "launcher"]
+      "name": "Discord",
+      "format": "gif",
+      "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/discord-0.gif",
+      "tags": ["discord", "chat", "voice", "social", "app", "communication"]
     },
     {
       "name": "Discord",
       "format": "image",
-      "url": "https://raw.githubusercontent.com/ahoin001/WiiLauncher-Assets/main/thumbnails/discord.png",
+      "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/discord-0.png",
       "tags": ["discord", "chat", "voice", "social", "app", "communication"]
     },
     {
-      "name": "Spotify",
-      "format": "gif",
-      "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/WiiLauncher-Assets/thumbnails/spotify-gif.gif",
-      "tags": ["spotify", "music", "streaming"]
-    },
-    {
-      "name": "Steam",
+      "name": "Discord",
       "format": "image",
-      "url": "https://raw.githubusercontent.com/ahoin001/WiiLauncher-Assets/main/thumbnails/steam.png",
-      "tags": ["steam", "valve", "games", "store", "pc", "launcher"]
-    }
+      "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/discord-1.png",
+      "tags": ["discord", "chat", "voice", "social", "app", "communication"]
+    }  
   ]
