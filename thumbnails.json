@@ -71,6 +71,12 @@
     "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/fileexplorer.png",
     "tags": ["FileExplorer", "chat", "voice", "social", "app", "communication"]
   },
+   {
+    "name": "GeometryDash",
+    "format": "image",
+    "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/geometry_dash_wii.png",
+    "tags": ["geometrydash", "chat", "voice", "social", "app", "communication"]
+  },
   {
     "name": "Helldivers 2",
     "format": "image",
