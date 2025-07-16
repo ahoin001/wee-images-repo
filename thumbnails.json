@@ -221,6 +221,12 @@
     "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/VisualStudioCodeFancy.png",
     "tags": ["VisualStudioCode", "chat", "voice", "social", "app", "communication"]
   },
+    {
+    "name": "Valorent",
+    "format": "image",
+    "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/valorent_wii.gif",
+    "tags": ["Valorent", "chat", "voice", "social", "app", "communication"]
+  },
   {
     "name": "WiiEmptyChannel",
     "format": "mp4",
