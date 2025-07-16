@@ -59,4 +59,10 @@
       "url": "https://raw.githubusercontent.com/Rydrew/wee-images-repo-ryder/main/thumbnails/Brave.mp4",
       "tags": ["brave", "chat", "voice", "social", "app", "communication"]
     }  
+    {
+      "name": "Spotify",
+      "format": "gif",
+      "url": "https://raw.githubusercontent.com/Rydrew/wee-images-repo-ryder/main/thumbnails/Spotify_Channel.gif",
+      "tags": ["spotify", "chat", "voice", "social", "app", "communication"]
+    }  
   ]
