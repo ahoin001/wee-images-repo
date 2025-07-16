@@ -114,6 +114,12 @@
     "tags": ["roblox", "chat", "voice", "social", "app", "communication"]
   },
   {
+    "name": "RocketLeague",
+    "format": "image",
+    "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/rl_wii.png",
+    "tags": ["rocketleague", "chat", "voice", "social", "app", "communication"]
+  },
+  {
     "name": "Slack",
     "format": "image",
     "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/slack_wii.png",
