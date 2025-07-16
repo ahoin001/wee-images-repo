@@ -13,25 +13,35 @@ Thank you for your interest in contributing to the WiiDesktop Launcher asset col
 
 3.  **Upload Your File:** In your forked repository, navigate to the `thumbnails/` folder and upload your prepared PNG, GIF, or MP4 file.
 
-4.  **Update the JSON File:**
+4.  **Get the Raw URL (Important!):**
+    * After uploading and pushing your changes (images added to thumbnails), visit your repo and click on the file you just uploaded to view it on GitHub.
+
+    Either copy and paste the link of the page showing the image and get the raw link here : https://git-rawify.vercel.app/
+
+     OR
+     
+    * On the file viewer page, **left-click** the **"Download"** button.
+    * This will open the image or video by itself in a new browser tab.
+    * The URL in your browser's address bar will now start with `raw.githubusercontent.com`. **This is the correct URL.**
+    * Copy this entire URL from your address bar.
+
+5.  **Update the JSON File:**
     * Navigate back to the root of your forked repository and open the `thumbnails.json` file.
     * Add a new JSON object for your file to the **end** of the list (just before the closing `]`).
-    * Use the template below and be sure to fill in all the fields correctly.
+    * Use the template below, pasting the URL you just copied from your address bar into the `url` field.
 
     **Template:**
     ```json
     {
       "name": "Your App or Game Name",
       "format": "image",
-      "url": "[https://raw.githubusercontent.com/YOUR_USERNAME/WiiLauncher-Assets/main/thumbnails/your-image-filename.png](https://raw.githubusercontent.com/YOUR_USERNAME/WiiLauncher-Assets/main/thumbnails/your-image-filename.png)",
+      "url": "PASTE_THE_RAW_URL_YOU_COPIED_HERE",
       "tags": ["tag1", "tag2", "relevant", "search", "terms"]
     }
     ```
-    > **Important:**
-    > * The `"format"` can be `"image"`, `"gif"`, or `"video"`.
-    > * Replace `YOUR_USERNAME` with the username of the owner of the *main* repository, not your own.
+    > **Note:** The `"format"` can be `"image"`, `"gif"`, or `"video"`.
 
-5.  **Create a Pull Request:**
+6.  **Create a Pull Request:**
     * Once you have uploaded your file and updated the JSON, go back to the main page of your fork.
     * Click the "Contribute" button and then "Open pull request".
     * Provide a brief title for your addition (e.g., "Add thumbnail for Blender").

@@ -1,23 +1,5 @@
 [
     {
-      "name": "Valorant",
-      "format": "image",
-      "url": "https://raw.githubusercontent.com/ahoin001/WiiLauncher-Assets/main/thumbnails/valorant-static.png",
-      "tags": ["valorant", "riot games", "fps", "shooter", "pc", "game", "esports"]
-    },
-    {
-      "name": "Valorant Animated",
-      "format": "gif",
-      "url": "https://raw.githubusercontent.com/ahoin001/WiiLauncher-Assets/main/thumbnails/valorant-animated.gif",
-      "tags": ["valorant", "riot games", "fps", "shooter", "pc", "game", "esports", "animated"]
-    },
-    {
-      "name": "Valorant Cinematic",
-      "format": "video",
-      "url": "https://raw.githubusercontent.com/ahoin001/WiiLauncher-Assets/main/thumbnails/valorant-cinematic.mp4",
-      "tags": ["valorant", "riot games", "fps", "shooter", "pc", "game", "esports", "cinematic", "video"]
-    },
-    {
       "name": "Steam",
       "format": "image",
       "url": "https://raw.githubusercontent.com/ahoin001/WiiLauncher-Assets/main/thumbnails/steam.png",
@@ -28,5 +10,17 @@
       "format": "image",
       "url": "https://raw.githubusercontent.com/ahoin001/WiiLauncher-Assets/main/thumbnails/discord.png",
       "tags": ["discord", "chat", "voice", "social", "app", "communication"]
+    },
+    {
+      "name": "Spotify",
+      "format": "gif",
+      "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/WiiLauncher-Assets/thumbnails/spotify-gif.gif",
+      "tags": ["spotify", "music", "streaming"]
+    },
+    {
+      "name": "Steam",
+      "format": "image",
+      "url": "https://raw.githubusercontent.com/ahoin001/WiiLauncher-Assets/main/thumbnails/steam.png",
+      "tags": ["steam", "valve", "games", "store", "pc", "launcher"]
     }
   ]
