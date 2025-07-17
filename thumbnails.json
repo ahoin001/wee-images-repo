@@ -320,6 +320,12 @@
     "tags": []
   },
   {
+    "name": "ESPN",
+    "format": "gif",
+    "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/ESPNICONS2.gif",
+    "tags": []
+  },
+  {
     "name": "ETS2",
     "format": "image",
     "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/ets2_wii.png",
