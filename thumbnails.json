@@ -3,354 +3,773 @@
     "name": "ArkhamCity",
     "format": "image",
     "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/arkhamcity_wii.png",
-    "tags": ["ArkhamCity", "chat", "voice", "social", "app", "communication"]
+    "tags": [
+      "ArkhamCity",
+      "chat",
+      "voice",
+      "social",
+      "app",
+      "communication"
+    ]
   },
   {
     "name": "AmazonMusic",
     "format": "image",
     "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/amazon_music_wii.png",
-    "tags": ["AmazonMusic", "chat", "voice", "social", "app", "communication"]
+    "tags": [
+      "AmazonMusic",
+      "chat",
+      "voice",
+      "social",
+      "app",
+      "communication"
+    ]
   },
   {
     "name": "BeamMP",
     "format": "image",
     "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/beammp_wii.png",
-    "tags": ["beammp", "chat", "voice", "social", "app", "communication"]
+    "tags": [
+      "beammp",
+      "chat",
+      "voice",
+      "social",
+      "app",
+      "communication"
+    ]
   },
   {
     "name": "BeamNG.Drive",
     "format": "image",
     "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/beamng_wii.png",
-    "tags": ["beamng.drive", "chat", "voice", "social", "app", "communication"]
+    "tags": [
+      "beamng.drive",
+      "chat",
+      "voice",
+      "social",
+      "app",
+      "communication"
+    ]
   },
   {
     "name": "Brave",
     "format": "mp4",
     "url": "https://ahoin001.github.io/wee-images-repo/thumbnails/brave-browser.mp4",
-    "tags": ["brave", "chat", "voice", "social", "app", "communication"]
+    "tags": [
+      "brave",
+      "chat",
+      "voice",
+      "social",
+      "app",
+      "communication"
+    ]
   },
   {
     "name": "Chat Gpt",
     "format": "mp4",
     "url": "https://ahoin001.github.io/wee-images-repo/thumbnails/chatgpt.mp4",
-    "tags": ["spotify", "chat", "voice", "social", "app", "communication"]
+    "tags": [
+      "spotify",
+      "chat",
+      "voice",
+      "social",
+      "app",
+      "communication"
+    ]
   },
   {
     "name": "ClashOfClans",
     "format": "image",
     "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/coc_wii.png",
-    "tags": ["ClashOfClans", "chat", "voice", "social", "app", "communication"]
+    "tags": [
+      "ClashOfClans",
+      "chat",
+      "voice",
+      "social",
+      "app",
+      "communication"
+    ]
   },
   {
     "name": "Cyberpunk2077",
     "format": "image",
     "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/cyberpunk2077_wii.png",
-    "tags": ["Cyberpunk2077", "chat", "voice", "social", "app", "communication"]
+    "tags": [
+      "Cyberpunk2077",
+      "chat",
+      "voice",
+      "social",
+      "app",
+      "communication"
+    ]
   },
   {
     "name": "Discord",
     "format": "gif",
     "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/discord-0.gif",
-    "tags": ["discord", "chat", "voice", "social", "app", "communication"]
+    "tags": [
+      "discord",
+      "chat",
+      "voice",
+      "social",
+      "app",
+      "communication"
+    ]
   },
   {
     "name": "Discord",
     "format": "image",
     "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/discord-0.png",
-    "tags": ["discord", "chat", "voice", "social", "app", "communication"]
+    "tags": [
+      "discord",
+      "chat",
+      "voice",
+      "social",
+      "app",
+      "communication"
+    ]
   },
   {
     "name": "Discord",
     "format": "image",
     "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/discord-1.png",
-    "tags": ["discord", "chat", "voice", "social", "app", "communication"]
+    "tags": [
+      "discord",
+      "chat",
+      "voice",
+      "social",
+      "app",
+      "communication"
+    ]
   },
   {
     "name": "Destiny2",
     "format": "image",
     "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/destiny2_wii.png",
-    "tags": ["destiny2", "chat", "voice", "social", "app", "communication"]
+    "tags": [
+      "destiny2",
+      "chat",
+      "voice",
+      "social",
+      "app",
+      "communication"
+    ]
   },
   {
     "name": "EpicGamesStore",
     "format": "image",
     "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/epicgamesstore.png",
-    "tags": ["EpicGamesStore", "chat", "voice", "social", "app", "communication"]
+    "tags": [
+      "EpicGamesStore",
+      "chat",
+      "voice",
+      "social",
+      "app",
+      "communication"
+    ]
   },
   {
     "name": "Epic Games Store",
     "format": "image",
     "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/epic.gif",
-    "tags": ["EpicGamesStore", "chat", "voice", "social", "app", "communication"]
+    "tags": [
+      "EpicGamesStore",
+      "chat",
+      "voice",
+      "social",
+      "app",
+      "communication"
+    ]
   },
   {
     "name": "ETS2",
     "format": "image",
     "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/ets2_wii.png",
-    "tags": ["ets2", "chat", "voice", "social", "app", "communication"]
+    "tags": [
+      "ets2",
+      "chat",
+      "voice",
+      "social",
+      "app",
+      "communication"
+    ]
   },
-   {
+  {
     "name": "FileExplorer",
     "format": "image",
     "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/fileexplorer.png",
-    "tags": ["FileExplorer", "chat", "voice", "social", "app", "communication"]
+    "tags": [
+      "FileExplorer",
+      "chat",
+      "voice",
+      "social",
+      "app",
+      "communication"
+    ]
   },
   {
     "name": "Firefox",
     "format": "image",
     "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/firefox.png",
-    "tags": ["Firefox", "chat", "voice", "social", "app", "communication"]
+    "tags": [
+      "Firefox",
+      "chat",
+      "voice",
+      "social",
+      "app",
+      "communication"
+    ]
   },
   {
     "name": "Fortnite1",
     "format": "image",
     "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/fortnite_1.png",
-    "tags": ["Fortnite1", "chat", "voice", "social", "app", "communication"]
+    "tags": [
+      "Fortnite1",
+      "chat",
+      "voice",
+      "social",
+      "app",
+      "communication"
+    ]
   },
   {
     "name": "Fortnite2",
     "format": "image",
     "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/fortnite_2.png",
-    "tags": ["Fortnite2", "chat", "voice", "social", "app", "communication"]
+    "tags": [
+      "Fortnite2",
+      "chat",
+      "voice",
+      "social",
+      "app",
+      "communication"
+    ]
   },
   {
     "name": "Fortnite3",
     "format": "image",
     "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/fortnite_3.png",
-    "tags": ["Fortnite3", "chat", "voice", "social", "app", "communication"]
+    "tags": [
+      "Fortnite3",
+      "chat",
+      "voice",
+      "social",
+      "app",
+      "communication"
+    ]
   },
   {
     "name": "Fortnite4",
     "format": "image",
     "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/fortnite_4.png",
-    "tags": ["Fortnite4", "chat", "voice", "social", "app", "communication"]
+    "tags": [
+      "Fortnite4",
+      "chat",
+      "voice",
+      "social",
+      "app",
+      "communication"
+    ]
   },
-   {
+  {
     "name": "GeometryDash",
     "format": "image",
     "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/geometry_dash_wii.png",
-    "tags": ["geometrydash", "chat", "voice", "social", "app", "communication"]
+    "tags": [
+      "geometrydash",
+      "chat",
+      "voice",
+      "social",
+      "app",
+      "communication"
+    ]
   },
   {
     "name": "Git",
     "format": "image",
     "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/git.png",
-    "tags": ["geometrydash", "chat", "voice", "social", "app", "communication"]
+    "tags": [
+      "geometrydash",
+      "chat",
+      "voice",
+      "social",
+      "app",
+      "communication"
+    ]
   },
-   {
+  {
     "name": "GoogleChrome",
     "format": "gif",
     "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/Google_Chrome_wii.gif",
-    "tags": ["googlechrome", "chat", "voice", "social", "app", "communication"]
+    "tags": [
+      "googlechrome",
+      "chat",
+      "voice",
+      "social",
+      "app",
+      "communication"
+    ]
   },
   {
     "name": "Helldivers 2",
     "format": "image",
     "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/helldivers-0.png",
-    "tags": ["helldivers", "chat", "voice", "social", "app", "communication"]
+    "tags": [
+      "helldivers",
+      "chat",
+      "voice",
+      "social",
+      "app",
+      "communication"
+    ]
   },
   {
     "name": "HalfLife2",
     "format": "image",
     "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/hl2_wii.png",
-    "tags": ["halflife2", "chat", "voice", "social", "app", "communication"]
+    "tags": [
+      "halflife2",
+      "chat",
+      "voice",
+      "social",
+      "app",
+      "communication"
+    ]
   },
   {
     "name": "Kingdom Hearts",
     "format": "image",
     "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/kingdom-hearts.jpeg",
-    "tags": ["halflife2", "chat", "voice", "social", "app", "communication"]
+    "tags": [
+      "halflife2",
+      "chat",
+      "voice",
+      "social",
+      "app",
+      "communication"
+    ]
   },
   {
     "name": "Kingdom Hearts",
     "format": "image",
     "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/kingdom-hearts-ddd.jpeg",
-    "tags": ["halflife2", "chat", "voice", "social", "app", "communication"]
+    "tags": [
+      "halflife2",
+      "chat",
+      "voice",
+      "social",
+      "app",
+      "communication"
+    ]
   },
   {
     "name": "Kingdom Hearts",
     "format": "image",
     "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/kingdom-hearts-final-mix.jpeg",
-    "tags": ["halflife2", "chat", "voice", "social", "app", "communication"]
+    "tags": [
+      "halflife2",
+      "chat",
+      "voice",
+      "social",
+      "app",
+      "communication"
+    ]
   },
   {
     "name": "Left 4 Dead 2",
     "format": "image",
     "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/left-4-dead.png",
-    "tags": ["Left 4 Dead 2", "chat", "voice", "social", "app", "communication"]
+    "tags": [
+      "Left 4 Dead 2",
+      "chat",
+      "voice",
+      "social",
+      "app",
+      "communication"
+    ]
   },
   {
     "name": "Minecraft",
     "format": "image",
     "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/Minecraft_Launcher_wii.png",
-    "tags": ["Minecraft", "chat", "voice", "social", "app", "communication"]
+    "tags": [
+      "Minecraft",
+      "chat",
+      "voice",
+      "social",
+      "app",
+      "communication"
+    ]
   },
-   {
+  {
     "name": "Marvel Rivals",
     "format": "image",
     "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/marvelerivals_wii.png",
-    "tags": ["MarvelRivals", "chat", "voice", "social", "app", "communication"]
+    "tags": [
+      "MarvelRivals",
+      "chat",
+      "voice",
+      "social",
+      "app",
+      "communication"
+    ]
   },
   {
     "name": "Marvel Rivals",
     "format": "mp4",
     "url": "https://ahoin001.github.io/wee-images-repo/thumbnails/marvel-rivals.mp4",
-    "tags": ["steam", "chat", "voice", "social", "app", "communication"]
+    "tags": [
+      "steam",
+      "chat",
+      "voice",
+      "social",
+      "app",
+      "communication"
+    ]
   },
   {
     "name": "Netflix",
     "format": "image",
     "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/Netflix_wii.png",
-    "tags": ["Netflix", "chat", "voice", "social", "app", "communication"]
+    "tags": [
+      "Netflix",
+      "chat",
+      "voice",
+      "social",
+      "app",
+      "communication"
+    ]
   },
   {
     "name": "OperaGX",
     "format": "image",
     "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/operagx_wii.png",
-    "tags": ["OperaGX", "chat", "voice", "social", "app", "communication"]
+    "tags": [
+      "OperaGX",
+      "chat",
+      "voice",
+      "social",
+      "app",
+      "communication"
+    ]
   },
   {
     "name": "Palworld",
     "format": "image",
     "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/Palworld.png",
-    "tags": ["palworld", "chat", "voice", "social", "app", "communication"]
+    "tags": [
+      "palworld",
+      "chat",
+      "voice",
+      "social",
+      "app",
+      "communication"
+    ]
   },
   {
     "name": "Premiere Pro",
     "format": "mp4",
     "url": "https://ahoin001.github.io/wee-images-repo/thumbnails/premierepro.mp4",
-    "tags": ["spotify", "chat", "voice", "social", "app", "communication"]
+    "tags": [
+      "spotify",
+      "chat",
+      "voice",
+      "social",
+      "app",
+      "communication"
+    ]
   },
   {
     "name": "Razer Synapse",
     "format": "image",
     "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/razer%20synapse.gif",
-    "tags": ["razersynapse", "chat", "voice", "social", "app", "communication"]
+    "tags": [
+      "razersynapse",
+      "chat",
+      "voice",
+      "social",
+      "app",
+      "communication"
+    ]
   },
   {
     "name": "Roblox",
     "format": "image",
     "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/roblox_wii.png",
-    "tags": ["roblox", "chat", "voice", "social", "app", "communication"]
+    "tags": [
+      "roblox",
+      "chat",
+      "voice",
+      "social",
+      "app",
+      "communication"
+    ]
   },
   {
     "name": "RocketLeague",
     "format": "image",
     "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/rl_wii.png",
-    "tags": ["rocketleague", "chat", "voice", "social", "app", "communication"]
+    "tags": [
+      "rocketleague",
+      "chat",
+      "voice",
+      "social",
+      "app",
+      "communication"
+    ]
   },
   {
     "name": "Rcps3",
     "format": "image",
     "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/rcps3.png",
-    "tags": ["rcps3", "chat", "voice", "social", "app", "communication"]
+    "tags": [
+      "rcps3",
+      "chat",
+      "voice",
+      "social",
+      "app",
+      "communication"
+    ]
   },
   {
     "name": "RockstarGames",
     "format": "image",
     "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/rockstar_games_wii.png",
-    "tags": ["rockstargames", "chat", "voice", "social", "app", "communication"]
+    "tags": [
+      "rockstargames",
+      "chat",
+      "voice",
+      "social",
+      "app",
+      "communication"
+    ]
   },
   {
     "name": "Rematch",
     "format": "image",
     "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/rematch.jpg",
-    "tags": ["rematch", "chat", "voice", "social", "app", "communication"]
+    "tags": [
+      "rematch",
+      "chat",
+      "voice",
+      "social",
+      "app",
+      "communication"
+    ]
   },
   {
     "name": "ReadyOrNot",
     "format": "image",
     "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/ron_wii.png",
-    "tags": ["readyornot", "chat", "voice", "social", "app", "communication"]
+    "tags": [
+      "readyornot",
+      "chat",
+      "voice",
+      "social",
+      "app",
+      "communication"
+    ]
   },
   {
     "name": "Slack",
     "format": "image",
     "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/slack_wii.png",
-    "tags": ["slack", "chat", "voice", "social", "app", "communication"]
+    "tags": [
+      "slack",
+      "chat",
+      "voice",
+      "social",
+      "app",
+      "communication"
+    ]
   },
   {
     "name": "Spotify",
     "format": "gif",
     "url": "https://raw.githubusercontent.com/Rydrew/wee-images-repo-ryder/main/thumbnails/Spotify_Channel.gif",
-    "tags": ["spotify", "chat", "voice", "social", "app", "communication"]
+    "tags": [
+      "spotify",
+      "chat",
+      "voice",
+      "social",
+      "app",
+      "communication"
+    ]
   },
   {
     "name": "Spotify",
     "format": "mp4",
     "url": "https://ahoin001.github.io/wee-images-repo/thumbnails/spotify-0.mp4",
-    "tags": ["spotify", "chat", "voice", "social", "app", "communication"]
+    "tags": [
+      "spotify",
+      "chat",
+      "voice",
+      "social",
+      "app",
+      "communication"
+    ]
   },
   {
     "name": "Steam",
     "format": "image",
     "url": "https://ahoin001.github.io/wee-images-repo/thumbnails/steam.webp",
-    "tags": ["steam", "chat", "voice", "social", "app", "communication"]
+    "tags": [
+      "steam",
+      "chat",
+      "voice",
+      "social",
+      "app",
+      "communication"
+    ]
   },
   {
     "name": "Steam",
     "format": "mp4",
     "url": "https://ahoin001.github.io/wee-images-repo/thumbnails/steam-deck.mp4",
-    "tags": ["steam", "chat", "voice", "social", "app", "communication"]
+    "tags": [
+      "steam",
+      "chat",
+      "voice",
+      "social",
+      "app",
+      "communication"
+    ]
   },
   {
     "name": "Telegram",
     "format": "image",
     "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/telegram.png",
-    "tags": ["Telegram", "chat", "voice", "social", "app", "communication"]
+    "tags": [
+      "Telegram",
+      "chat",
+      "voice",
+      "social",
+      "app",
+      "communication"
+    ]
   },
   {
     "name": "TemTem",
     "format": "image",
     "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/temtem.png",
-    "tags": ["temtem", "chat", "voice", "social", "app", "communication"]
+    "tags": [
+      "temtem",
+      "chat",
+      "voice",
+      "social",
+      "app",
+      "communication"
+    ]
   },
   {
     "name": "Valorant",
     "format": "image",
     "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/valo.png",
-    "tags": ["VisualStudioCode", "chat", "voice", "social", "app", "communication"]
+    "tags": [
+      "VisualStudioCode",
+      "chat",
+      "voice",
+      "social",
+      "app",
+      "communication"
+    ]
   },
   {
     "name": "VisualStudioCode",
     "format": "image",
     "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/VisualStudioCodeFancy.png",
-    "tags": ["VisualStudioCode", "chat", "voice", "social", "app", "communication"]
+    "tags": [
+      "VisualStudioCode",
+      "chat",
+      "voice",
+      "social",
+      "app",
+      "communication"
+    ]
   },
-    {
+  {
     "name": "Valorent",
     "format": "image",
     "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/valorent_wii.gif",
-    "tags": ["Valorent", "chat", "voice", "social", "app", "communication"]
+    "tags": [
+      "Valorent",
+      "chat",
+      "voice",
+      "social",
+      "app",
+      "communication"
+    ]
   },
   {
     "name": "WiiEmptyChannel",
     "format": "mp4",
     "url": "https://ahoin001.github.io/wee-images-repo/thumbnails/wii-empty-channel.mp4",
-    "tags": ["wiiemptychannel", "chat", "voice", "social", "app", "communication"]
+    "tags": [
+      "wiiemptychannel",
+      "chat",
+      "voice",
+      "social",
+      "app",
+      "communication"
+    ]
   },
-   {
+  {
     "name": "Whatsapp",
     "format": "image",
     "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/whatsapp_wii.png",
-    "tags": ["whatsapp", "chat", "voice", "social", "app", "communication"]
+    "tags": [
+      "whatsapp",
+      "chat",
+      "voice",
+      "social",
+      "app",
+      "communication"
+    ]
   },
   {
     "name": "Youtube",
     "format": "image",
     "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/youtube.png",
-    "tags": ["wiiemptychannel", "chat", "voice", "social", "app", "communication"]
+    "tags": [
+      "wiiemptychannel",
+      "chat",
+      "voice",
+      "social",
+      "app",
+      "communication"
+    ]
   },
   {
     "name": "Youtube",
     "format": "mp4",
     "url": "https://ahoin001.github.io/wee-images-repo/thumbnails/youtube-1.mp4",
-    "tags": ["spotify", "chat", "voice", "social", "app", "communication"]
+    "tags": [
+      "spotify",
+      "chat",
+      "voice",
+      "social",
+      "app",
+      "communication"
+    ]
   },
   {
     "name": "Youtube",
     "format": "mp4",
     "url": "https://ahoin001.github.io/wee-images-repo/thumbnails/youtube-0.mp4",
-    "tags": ["spotify", "chat", "voice", "social", "app", "communication"]
+    "tags": [
+      "spotify",
+      "chat",
+      "voice",
+      "social",
+      "app",
+      "communication"
+    ]
+  },
+  {
+    "name": "gemini",
+    "format": "video",
+    "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/chatgpt (1).mp4",
+    "tags": []
   }
 ]
