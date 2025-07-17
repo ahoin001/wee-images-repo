@@ -925,6 +925,12 @@
     "tags": []
   },
   {
+    "name": "Stream Deck",
+    "format": "image",
+    "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/streamdeck.png",
+    "tags": []
+  },
+  {
     "name": "stremio",
     "format": "image",
     "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/stremio-0.png",
