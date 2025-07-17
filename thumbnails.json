@@ -596,6 +596,12 @@
     ]
   },
   {
+    "name": "meta",
+    "format": "image",
+    "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/Meta.png",
+    "tags": []
+  },
+  {
     "name": "Minecraft",
     "format": "image",
     "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/Minecraft_Launcher_wii.png",
