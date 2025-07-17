@@ -327,6 +327,12 @@
     ]
   },
   {
+    "name": "Excel",
+    "format": "image",
+    "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/image_19.png",
+    "tags": []
+  },
+  {
     "name": "File Explorer",
     "format": "image",
     "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/File_Explorer.png",
