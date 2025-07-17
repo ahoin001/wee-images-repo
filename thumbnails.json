@@ -1417,6 +1417,12 @@
     "tags": []
   },
   {
+    "name": "Suyu",
+    "format": "image",
+    "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/suyu.png",
+    "tags": []
+  },
+  {
     "name": "Team Fortress 2",
     "format": "mp4",
     "url": "https://ahoin001.github.io/wee-images-repo/thumbnails/tf2banner_wii.mp4",
