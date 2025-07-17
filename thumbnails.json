@@ -471,6 +471,12 @@
     ]
   },
   {
+    "name": "Garry's Mod",
+    "format": "image",
+    "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/gmod_wii.png",
+    "tags": []
+  },
+  {
     "name": "gemini",
     "format": "mp4",
     "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/gemini.mp4",
