@@ -577,6 +577,12 @@
     ]
   },
   {
+    "name": "Helldivers",
+    "format": "image",
+    "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/helldivers_wii.png",
+    "tags": []
+  },
+  {
     "name": "Helldivers 2",
     "format": "image",
     "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/helldivers-0.png",
