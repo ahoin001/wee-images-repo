@@ -19,6 +19,12 @@
     ]
   },
   {
+    "name": "Archipelago",
+    "format": "image",
+    "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/archipelago.png",
+    "tags": []
+  },
+  {
     "name": "ArkhamCity",
     "format": "image",
     "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/arkhamcity_wii.png",
