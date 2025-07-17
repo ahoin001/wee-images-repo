@@ -228,6 +228,12 @@
     ]
   },
   {
+    "name": "Dolphin Emulator",
+    "format": "image",
+    "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/dolphinemulator.png",
+    "tags": []
+  },
+  {
     "name": "elden ring nightreign",
     "format": "image",
     "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/nightreign.png",
