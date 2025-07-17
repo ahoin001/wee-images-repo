@@ -1141,6 +1141,12 @@
     ]
   },
   {
+    "name": "Steam",
+    "format": "mp4",
+    "url": "https://ahoin001.github.io/wee-images-repo/thumbnails/steam_wii.mp4",
+    "tags": []
+  },
+  {
     "name": "Steam VR",
     "format": "image",
     "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/SteamVR.png",
