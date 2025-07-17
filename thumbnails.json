@@ -1243,6 +1243,12 @@
     "tags": []
   },
   {
+    "name": "Project64",
+    "format": "image",
+    "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/Project64.png",
+    "tags": []
+  },
+  {
     "name": "Razer Synapse",
     "format": "image",
     "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/razer%20synapse.gif",
