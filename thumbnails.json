@@ -768,12 +768,6 @@
   },
   {
     "name": "gemini",
-    "format": "video",
-    "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/chatgpt (1).mp4",
-    "tags": []
-  },
-  {
-    "name": "gemini",
     "format": "mp4",
     "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/gemini.mp4",
     "tags": []
