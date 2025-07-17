@@ -685,6 +685,12 @@
     ]
   },
   {
+    "name": "stremio",
+    "format": "image",
+    "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/stremio-0.png",
+    "tags": []
+  },
+  {
     "name": "Telegram",
     "format": "image",
     "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/telegram.png",
