@@ -485,6 +485,12 @@
     ]
   },
   {
+    "name": "Ori",
+    "format": "image",
+    "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/ori.png",
+    "tags": []
+  },
+  {
     "name": "Palworld",
     "format": "image",
     "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/Palworld.png",
