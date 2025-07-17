@@ -242,6 +242,12 @@
     ]
   },
   {
+    "name": "Escape From Tarkov",
+    "format": "image",
+    "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/EFT.png",
+    "tags": []
+  },
+  {
     "name": "ETS2",
     "format": "image",
     "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/ets2_wii.png",
