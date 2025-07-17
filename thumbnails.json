@@ -25,6 +25,12 @@
     ]
   },
   {
+    "name": "apex",
+    "format": "image",
+    "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/apex.png",
+    "tags": []
+  },
+  {
     "name": "Archipelago",
     "format": "image",
     "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/archipelago.png",
