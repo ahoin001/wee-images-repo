@@ -719,6 +719,12 @@
     ]
   },
   {
+    "name": "GOJO",
+    "format": "image",
+    "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/aoe_max_icon.png",
+    "tags": []
+  },
+  {
     "name": "GoogleChrome",
     "format": "gif",
     "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/Google_Chrome_wii.gif",
