@@ -1008,6 +1008,12 @@
     "tags": []
   },
   {
+    "name": "photoshop",
+    "format": "image",
+    "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/PhotoshopFancy.png",
+    "tags": []
+  },
+  {
     "name": "Photoshop",
     "format": "image",
     "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/PHOTOSHOP.png",
