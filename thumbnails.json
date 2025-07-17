@@ -742,6 +742,12 @@
     "tags": []
   },
   {
+    "name": "OBS",
+    "format": "gif",
+    "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/obsgif_wii.gif",
+    "tags": []
+  },
+  {
     "name": "One Shot LRDA",
     "format": "mp4",
     "url": "https://ahoin001.github.io/wee-images-repo/thumbnails/1000054652.mp4",
