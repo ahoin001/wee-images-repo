@@ -88,6 +88,12 @@
     ]
   },
   {
+    "name": "BlazBlue",
+    "format": "video",
+    "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/BBTAG_video_Icon.mp4",
+    "tags": []
+  },
+  {
     "name": "Brave",
     "format": "mp4",
     "url": "https://ahoin001.github.io/wee-images-repo/thumbnails/brave-browser.mp4",
