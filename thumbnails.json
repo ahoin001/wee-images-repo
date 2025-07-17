@@ -800,6 +800,12 @@
     "tags": []
   },
   {
+    "name": "MHUR",
+    "format": "image",
+    "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/MHUR.jpg",
+    "tags": []
+  },
+  {
     "name": "Mii Channel",
     "format": "mp4",
     "url": "https://ahoin001.github.io/wee-images-repo/thumbnails/miichannel.mp4",
