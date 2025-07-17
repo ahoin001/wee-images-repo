@@ -1146,6 +1146,12 @@
     ]
   },
   {
+    "name": "rock band",
+    "format": "image",
+    "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/RB.png",
+    "tags": []
+  },
+  {
     "name": "Rocket League",
     "format": "mp4",
     "url": "https://ahoin001.github.io/wee-images-repo/thumbnails/Rocket League.mp4",
