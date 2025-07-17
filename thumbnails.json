@@ -530,6 +530,12 @@
     ]
   },
   {
+    "name": "Hollow Knight",
+    "format": "image",
+    "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/Hollow_Knight_wii.png",
+    "tags": []
+  },
+  {
     "name": "Kingdom Hearts",
     "format": "image",
     "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/kingdom-hearts.jpeg",
