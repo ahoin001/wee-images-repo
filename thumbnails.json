@@ -981,5 +981,55 @@
       "app",
       "communication"
     ]
-  }
+  }  
+  {
+  "name": "itch",
+  "format": "video",
+  "url": "https://raw.githubusercontent.com/Herkoo/wee-images-repo/main/thumbnails/itch-animated.mp4",
+  "tags": ["itch", "game", "launcher", "animated", "loop" ]
+}
+  {
+  "name": "itch",
+  "format": "video",
+  "url": "https://raw.githubusercontent.com/Herkoo/wee-images-repo/main/thumbnails/itch-animated.mp4",
+  "tags": ["itch", "game", "launcher", "animated", "loop" ]
+}
+{
+  "name": "Blender 4.2",
+  "format": "video",
+  "url": "https://raw.githubusercontent.com/Herkoo/wee-images-repo/main/thumbnails/blender-4.2-animated.mp4",
+  "tags": ["blender", "4.2", "launcher", "animated", "loop" ]
+}
+{
+  "name": "Blender 4.4",
+  "format": "video",
+  "url": "https://raw.githubusercontent.com/Herkoo/wee-images-repo/main/thumbnails/blender-4.4-animated.mp4",
+  "tags": ["blender", "4.2", "launcher", "animated", "loop" ]
+}
+{
+  "name": "Brave browser animated",
+  "format": "video",
+  "url": "https://raw.githubusercontent.com/Herkoo/wee-images-repo/main/thumbnails/brave-browser-animated.mp4",
+  "tags": ["brave", "browser", "animated", "loop" ]
+}
+{
+  "name": "Adobe Photoshop Animated",
+  "format": "video",
+  "url": "https://raw.githubusercontent.com/Herkoo/wee-images-repo/main/thumbnails/adobe-photoshop-animated.mp4",
+  "tags": ["adobe", "photoshop", "animated", "loop" ]
+}
+{
+  "name": "Adobe Premiere Pro Animated",
+  "format": "video",
+  "url": "https://raw.githubusercontent.com/Herkoo/wee-images-repo/main/thumbnails/adobe-premiere-pro-animated.mp4",
+    "tags": ["adobe", "premiere", "premiere pro", "animated", "loop" ]
+}
+{
+  "name": "DaVinci Resolve Animated",
+  "format": "video",
+  "url": "https://raw.githubusercontent.com/Herkoo/wee-images-repo/main/thumbnails/adobe-premiere-pro-animated.mp4",
+    "tags": ["davinci", "resolve", "animated", "loop" ]
+}
+
+
 ]
