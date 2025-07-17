@@ -946,6 +946,12 @@
     "tags": []
   },
   {
+    "name": "opera air",
+    "format": "image",
+    "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/OA.png",
+    "tags": []
+  },
+  {
     "name": "OperaGX",
     "format": "image",
     "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/operagx_wii.png",
