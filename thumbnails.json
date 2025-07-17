@@ -1,11 +1,5 @@
 [
   {
-    "name": "OBS",
-    "format": "gif",
-    "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/obsgif.gif",
-    "tags": []
-  },
-  {
     "name": "Ace Attorney",
     "format": "image",
     "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/a4f21c4638201d9b2037c0e3ead4e90a2f64b6f7af5a6909316daad44b3224b7.png",
@@ -257,6 +251,12 @@
       "app",
       "communication"
     ]
+  },
+  {
+    "name": "Counter-Strike 2",
+    "format": "image",
+    "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/0_counter-strike-2-available-now-3598118828.png",
+    "tags": []
   },
   {
     "name": "Crunchyroll",
@@ -1045,6 +1045,12 @@
     "name": "Nvidia",
     "format": "image",
     "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/nvidia.png",
+    "tags": []
+  },
+  {
+    "name": "OBS",
+    "format": "gif",
+    "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/obsgif.gif",
     "tags": []
   },
   {
