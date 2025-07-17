@@ -761,6 +761,12 @@
     ]
   },
   {
+    "name": "Spotify",
+    "format": "gif",
+    "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/Spotify_1.gif",
+    "tags": []
+  },
+  {
     "name": "steam",
     "format": "mp4",
     "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/steam.mp4",
