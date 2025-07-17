@@ -768,6 +768,12 @@
     ]
   },
   {
+    "name": "Payday 2",
+    "format": "image",
+    "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/payday2wii.png",
+    "tags": []
+  },
+  {
     "name": "Peak",
     "format": "image",
     "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/peak_wii.png",
