@@ -32,8 +32,8 @@
   },
   {
     "name": "Archipelago (animated)",
-    "format": "video",
-    "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/Archipelago.mp4",
+    "format": "mp4",
+    "url": "https://ahoin001.github.io/wee-images-repo/thumbnails/Archipelago.mp4",
     "tags": []
   },
   {
@@ -101,8 +101,8 @@
   },
   {
     "name": "BlazBlue",
-    "format": "video",
-    "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/BBTAG_video_Icon.mp4",
+    "format": "mp4",
+    "url": "https://ahoin001.github.io/wee-images-repo/thumbnails/BBTAG_video_Icon.mp4",
     "tags": []
   },
   {
@@ -138,8 +138,8 @@
   },
   {
     "name": "Celeste",
-    "format": "video",
-    "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/lv_0_20250717155231.mp4",
+    "format": "mp4",
+    "url": "https://ahoin001.github.io/wee-images-repo/thumbnails/lv_0_20250717155231.mp4",
     "tags": []
   },
   {
@@ -213,8 +213,8 @@
   },
   {
     "name": "Deltarune",
-    "format": "video",
-    "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/lv_0_20250717152125.mp4",
+    "format": "mp4",
+    "url": "https://ahoin001.github.io/wee-images-repo/thumbnails/lv_0_20250717152125.mp4",
     "tags": []
   },
   {
@@ -703,8 +703,8 @@
   },
   {
     "name": "Persona 4",
-    "format": "video",
-    "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/P4AU_video_Icon.mp4",
+    "format": "mp4",
+    "url": "https://ahoin001.github.io/wee-images-repo/thumbnails/P4AU_video_Icon.mp4",
     "tags": []
   },
   {
@@ -861,12 +861,6 @@
     ]
   },
   {
-    "name": "Soundcloud",
-    "format": "video",
-    "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/soundcloud_loop.mp4",
-    "tags": []
-  },
-  {
     "name": "SoundCloud",
     "format": "mp4",
     "url": "https://ahoin001.github.io/wee-images-repo/thumbnails/soundcloud_loop-1.mp4",
@@ -1000,8 +994,8 @@
   },
   {
     "name": "Undertale",
-    "format": "video",
-    "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/lv_0_20250717154319.mp4",
+    "format": "mp4",
+    "url": "https://ahoin001.github.io/wee-images-repo/thumbnails/lv_0_20250717154319.mp4",
     "tags": []
   },
   {
