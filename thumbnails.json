@@ -726,6 +726,12 @@
     "tags": []
   },
   {
+    "name": "vlc",
+    "format": "image",
+    "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/VLC1.png",
+    "tags": []
+  },
+  {
     "name": "Whatsapp",
     "format": "image",
     "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/whatsapp_wii.png",
