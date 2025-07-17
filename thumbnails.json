@@ -1460,6 +1460,12 @@
     ]
   },
   {
+    "name": "Word",
+    "format": "gif",
+    "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/word.gif",
+    "tags": []
+  },
+  {
     "name": "Xbox",
     "format": "mp4",
     "url": "https://ahoin001.github.io/wee-images-repo/thumbnails/xboxanimation.mp4",
