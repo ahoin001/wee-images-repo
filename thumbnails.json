@@ -723,6 +723,12 @@
     ]
   },
   {
+    "name": "spotify",
+    "format": "gif",
+    "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/Spotify2.gif",
+    "tags": []
+  },
+  {
     "name": "Spotify",
     "format": "gif",
     "url": "https://raw.githubusercontent.com/Rydrew/wee-images-repo-ryder/main/thumbnails/Spotify_Channel.gif",
