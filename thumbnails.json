@@ -952,6 +952,12 @@
     "tags": []
   },
   {
+    "name": "Nvidia",
+    "format": "image",
+    "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/nvidia.png",
+    "tags": []
+  },
+  {
     "name": "OBS",
     "format": "mp4",
     "url": "https://ahoin001.github.io/wee-images-repo/thumbnails/OBSWII.mp4",
