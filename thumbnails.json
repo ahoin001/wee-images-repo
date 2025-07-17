@@ -237,6 +237,12 @@
     ]
   },
   {
+    "name": "File Explorer",
+    "format": "image",
+    "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/File_Explorer.png",
+    "tags": []
+  },
+  {
     "name": "FileExplorer",
     "format": "image",
     "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/fileexplorer.png",
