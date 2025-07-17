@@ -294,6 +294,12 @@
     ]
   },
   {
+    "name": "Dolphin",
+    "format": "mp4",
+    "url": "https://ahoin001.github.io/wee-images-repo/thumbnails/homeade_dolphin.mp4",
+    "tags": []
+  },
+  {
     "name": "Dolphin Emulator",
     "format": "image",
     "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/dolphinemulator.png",
