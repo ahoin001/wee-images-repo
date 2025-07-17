@@ -734,6 +734,12 @@
     "tags": []
   },
   {
+    "name": "IPTV",
+    "format": "image",
+    "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/IPTV.png",
+    "tags": []
+  },
+  {
     "name": "Jedi Fallen Order",
     "format": "image",
     "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/fallenorder.png",
