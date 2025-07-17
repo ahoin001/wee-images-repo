@@ -635,6 +635,12 @@
     ]
   },
   {
+    "name": "steam",
+    "format": "video",
+    "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/steam.mp4",
+    "tags": []
+  },
+  {
     "name": "Steam",
     "format": "image",
     "url": "https://ahoin001.github.io/wee-images-repo/thumbnails/steam.webp",
