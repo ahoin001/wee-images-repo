@@ -843,6 +843,12 @@
     ]
   },
   {
+    "name": "Soundcloud",
+    "format": "video",
+    "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/soundcloud_loop.mp4",
+    "tags": []
+  },
+  {
     "name": "spotify",
     "format": "gif",
     "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/Spotify2.gif",
