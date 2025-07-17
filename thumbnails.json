@@ -636,7 +636,7 @@
   },
   {
     "name": "steam",
-    "format": "video",
+    "format": "mp4",
     "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/steam.mp4",
     "tags": []
   },
