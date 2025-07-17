@@ -471,6 +471,12 @@
     "tags": []
   },
   {
+    "name": "explorer",
+    "format": "image",
+    "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/explorer.png",
+    "tags": []
+  },
+  {
     "name": "Faceit",
     "format": "image",
     "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/Faceit_AC.png",
