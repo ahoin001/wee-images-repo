@@ -413,6 +413,12 @@
     ]
   },
   {
+    "name": "Firefox",
+    "format": "mp4",
+    "url": "https://ahoin001.github.io/wee-images-repo/thumbnails/FirefoxWII.mp4",
+    "tags": []
+  },
+  {
     "name": "FL Studio",
     "format": "image",
     "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/fl_studio.png",
