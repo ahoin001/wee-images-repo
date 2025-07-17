@@ -281,6 +281,12 @@
     ]
   },
   {
+    "name": "FL Studio",
+    "format": "image",
+    "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/fl_studio.png",
+    "tags": []
+  },
+  {
     "name": "Fortnite1",
     "format": "image",
     "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/fortnite_1.png",
