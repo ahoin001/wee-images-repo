@@ -777,5 +777,11 @@
     "format": "image",
     "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/OnlyFans.png",
     "tags": []
+  },
+  {
+    "name": "vlc",
+    "format": "image",
+    "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/VLC3.png",
+    "tags": []
   }
 ]
