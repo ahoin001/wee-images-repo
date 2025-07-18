@@ -1943,6 +1943,12 @@
     ]
   },
   {
+    "name": "Visual Studio 2022",
+    "format": "mp4",
+    "url": "https://ahoin001.github.io/wee-images-repo/thumbnails/Visual Studio 2022.mp4",
+    "tags": []
+  },
+  {
     "name": "VisualStudioCode",
     "format": "image",
     "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/VisualStudioCodeFancy.png",
