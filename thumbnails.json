@@ -920,6 +920,12 @@
     "tags": []
   },
   {
+    "name": "itch",
+    "format": "mp4",
+    "url": "https://ahoin001.github.io/wee-images-repo/thumbnails/itch-animated.mp4",
+    "tags": []
+  },
+  {
     "name": "Jedi Fallen Order",
     "format": "image",
     "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/fallenorder.png",
