@@ -1620,15 +1620,15 @@
     "tags": []
   },
   {
-    "name": "Pokémon Violet",
+    "name": "Pokémon TCG Live",
     "format": "image",
-    "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/pkmviolet.png",
+    "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/TCG.png",
     "tags": []
   },
   {
-    "name": "Pok�mon TCG Live",
+    "name": "PokÃ©mon Violet",
     "format": "image",
-    "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/TCG.png",
+    "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/pkmviolet.png",
     "tags": []
   },
   {
@@ -2476,6 +2476,12 @@
     "name": "Whatsapp",
     "format": "gif",
     "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/WhatsApp.gif",
+    "tags": []
+  },
+  {
+    "name": "Wii Photo Channel",
+    "format": "image",
+    "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/Wii Photo Channel.png",
     "tags": []
   },
   {
