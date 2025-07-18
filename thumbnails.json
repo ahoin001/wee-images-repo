@@ -184,6 +184,12 @@
     "tags": []
   },
   {
+    "name": "BlueStacks",
+    "format": "image",
+    "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/bluestacks.png",
+    "tags": []
+  },
+  {
     "name": "Bomb Rush Cyberfunk",
     "format": "mp4",
     "url": "https://ahoin001.github.io/wee-images-repo/thumbnails/brc_2_wii.mp4",
