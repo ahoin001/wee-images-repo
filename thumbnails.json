@@ -1385,6 +1385,12 @@
     "tags": []
   },
   {
+    "name": "Retro Arch",
+    "format": "image",
+    "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/RetroArch.png",
+    "tags": []
+  },
+  {
     "name": "Riot games",
     "format": "gif",
     "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/Riot_Games.gif",
