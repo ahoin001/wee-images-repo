@@ -2007,5 +2007,11 @@
     "format": "mp4",
     "url": "https://ahoin001.github.io/wee-images-repo/thumbnails/youtube_wii.mp4",
     "tags": []
+  },
+  {
+    "name": "Youtube Music",
+    "format": "image",
+    "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/image_2025-07-18_000400034.png",
+    "tags": []
   }
 ]
