@@ -1498,6 +1498,12 @@
     ]
   },
   {
+    "name": "Recycle Bin",
+    "format": "image",
+    "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/recycle-bin.png",
+    "tags": []
+  },
+  {
     "name": "Red Dead Redemption 2",
     "format": "image",
     "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/Red_dead_redemption_2_wii.png",
