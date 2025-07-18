@@ -1134,6 +1134,12 @@
     ]
   },
   {
+    "name": "LEGO DC Super Villains",
+    "format": "image",
+    "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/supervilains.png",
+    "tags": []
+  },
+  {
     "name": "LEGO Star Wars III The Clone Wars",
     "format": "image",
     "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/LST3.png",
