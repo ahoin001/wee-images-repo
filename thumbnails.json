@@ -1064,6 +1064,12 @@
     "tags": []
   },
   {
+    "name": "iRacing",
+    "format": "image",
+    "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/iRacing-Inline-Color-Blue.png",
+    "tags": []
+  },
+  {
     "name": "itch",
     "format": "mp4",
     "url": "https://ahoin001.github.io/wee-images-repo/thumbnails/itch-animated.mp4",
