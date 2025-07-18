@@ -1695,6 +1695,12 @@
     "tags": []
   },
   {
+    "name": "UEFN",
+    "format": "image",
+    "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/UEFNlogoWiiChannel.png",
+    "tags": []
+  },
+  {
     "name": "Undertale",
     "format": "mp4",
     "url": "https://ahoin001.github.io/wee-images-repo/thumbnails/lv_0_20250717154319.mp4",
