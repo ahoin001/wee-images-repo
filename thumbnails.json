@@ -540,6 +540,12 @@
     "tags": []
   },
   {
+    "name": "Disney+",
+    "format": "image",
+    "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/disney+.png",
+    "tags": []
+  },
+  {
     "name": "djmax",
     "format": "image",
     "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/djmax.png",
