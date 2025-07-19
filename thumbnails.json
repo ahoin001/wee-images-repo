@@ -1112,6 +1112,12 @@
     "tags": []
   },
   {
+    "name": "jellyfin",
+    "format": "image",
+    "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/4178c69f81c5a468f7de28719c68d274.png",
+    "tags": []
+  },
+  {
     "name": "Kingdom Hearts",
     "format": "image",
     "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/kingdom-hearts.jpeg",
