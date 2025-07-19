@@ -1230,6 +1230,12 @@
     ]
   },
   {
+    "name": "LEGO Batman 3",
+    "format": "gif",
+    "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/Batman.gif",
+    "tags": []
+  },
+  {
     "name": "LEGO DC Super Villains",
     "format": "image",
     "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/supervilains.png",
