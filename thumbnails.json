@@ -122,6 +122,12 @@
     "tags": []
   },
   {
+    "name": "bakkemod",
+    "format": "image",
+    "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/bakkesmod.jpg",
+    "tags": []
+  },
+  {
     "name": "Balatro",
     "format": "mp4",
     "url": "https://ahoin001.github.io/wee-images-repo/thumbnails/balatro_wii.mp4",
