@@ -2757,5 +2757,11 @@
     "format": "image",
     "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/masterduel.png",
     "tags": []
+  },
+  {
+    "name": "ZenlessZoneZero",
+    "format": "gif",
+    "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/zzz-zenless-zone-zero.gif",
+    "tags": []
   }
 ]
