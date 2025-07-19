@@ -452,6 +452,12 @@
     "tags": []
   },
   {
+    "name": "DAZN",
+    "format": "image",
+    "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/dazn-f1.png",
+    "tags": []
+  },
+  {
     "name": "dead by daylight",
     "format": "image",
     "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/dead-by-daylight.png",
