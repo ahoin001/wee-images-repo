@@ -128,6 +128,12 @@
     "tags": []
   },
   {
+    "name": "Battle.Net",
+    "format": "image",
+    "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/Battlenet-logo.png",
+    "tags": []
+  },
+  {
     "name": "battlefront 2",
     "format": "image",
     "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/Battlefront2.png",
