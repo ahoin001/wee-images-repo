@@ -741,6 +741,12 @@
     "tags": []
   },
   {
+    "name": "f1",
+    "format": "image",
+    "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/F1_25.webp",
+    "tags": []
+  },
+  {
     "name": "Faceit",
     "format": "image",
     "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/Faceit_AC.png",
