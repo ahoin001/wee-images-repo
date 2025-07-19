@@ -1994,6 +1994,12 @@
     ]
   },
   {
+    "name": "RPCS3",
+    "format": "image",
+    "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/RPCS3-0.0.28 .png",
+    "tags": []
+  },
+  {
     "name": "Rust",
     "format": "image",
     "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/rust.png",
