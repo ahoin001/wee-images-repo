@@ -305,6 +305,12 @@
     "tags": []
   },
   {
+    "name": "camera",
+    "format": "image",
+    "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/camera.png",
+    "tags": []
+  },
+  {
     "name": "castle crashers",
     "format": "image",
     "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/CC.png",
