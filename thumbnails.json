@@ -190,6 +190,12 @@
     ]
   },
   {
+    "name": "BitWarden",
+    "format": "image",
+    "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/BitWarden.png",
+    "tags": []
+  },
+  {
     "name": "Black Ops 3",
     "format": "mp4",
     "url": "https://ahoin001.github.io/wee-images-repo/thumbnails/Bo3GuyLabel.mp4",
