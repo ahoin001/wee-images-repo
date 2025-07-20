@@ -1630,6 +1630,12 @@
     "tags": []
   },
   {
+    "name": "Notepad",
+    "format": "image",
+    "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/notepad.png",
+    "tags": []
+  },
+  {
     "name": "Notion",
     "format": "image",
     "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/Notion2.png",
