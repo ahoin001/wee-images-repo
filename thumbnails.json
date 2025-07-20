@@ -2198,6 +2198,12 @@
     "tags": []
   },
   {
+    "name": "settings",
+    "format": "image",
+    "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/Windows_Settings_app_icon.png",
+    "tags": []
+  },
+  {
     "name": "Shin Megami Tensei V: Vengeance",
     "format": "image",
     "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/smtv.png",
