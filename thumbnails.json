@@ -1502,6 +1502,12 @@
     "tags": []
   },
   {
+    "name": "microsoft edge",
+    "format": "image",
+    "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/msedge.png",
+    "tags": []
+  },
+  {
     "name": "Mii Channel",
     "format": "mp4",
     "url": "https://ahoin001.github.io/wee-images-repo/thumbnails/miichannel.mp4",
