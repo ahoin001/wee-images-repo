@@ -2300,6 +2300,12 @@
     "tags": []
   },
   {
+    "name": "scp sl",
+    "format": "image",
+    "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/Screenshot 2025-07-21 111501.png",
+    "tags": []
+  },
+  {
     "name": "settings",
     "format": "image",
     "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/Windows_Settings_app_icon.png",
