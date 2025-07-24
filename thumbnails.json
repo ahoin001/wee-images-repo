@@ -73,6 +73,12 @@
     "tags": []
   },
   {
+    "name": "Apple Music",
+    "format": "mp4",
+    "url": "https://ahoin001.github.io/wee-images-repo/thumbnails/apple-music-apple.mp4",
+    "tags": []
+  },
+  {
     "name": "Archipelago",
     "format": "image",
     "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/archipelago.png",
