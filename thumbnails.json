@@ -3173,6 +3173,12 @@
     "tags": []
   },
   {
+    "name": "Youtube",
+    "format": "gif",
+    "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/YoutubeIcon781x425.gif",
+    "tags": []
+  },
+  {
     "name": "YouTube",
     "format": "mp4",
     "url": "https://ahoin001.github.io/wee-images-repo/thumbnails/youtube_wii.mp4",
