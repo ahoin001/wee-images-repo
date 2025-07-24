@@ -1696,6 +1696,12 @@
     ]
   },
   {
+    "name": "Netflix",
+    "format": "gif",
+    "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/Netflix_anim.gif",
+    "tags": []
+  },
+  {
     "name": "NieR: Automata",
     "format": "image",
     "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/nier automata.png",
