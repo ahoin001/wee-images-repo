@@ -1135,7 +1135,7 @@
   {
     "name": "God of War Ragnarok",
     "format": "mp4",
-    "url": "https://ahoin001.github.io/wee-images-repo/thumbnails/God of War Ragnar�k Steam Deck Startup Movie.mp4",
+    "url": "https://ahoin001.github.io/wee-images-repo/thumbnails/God of War Ragnarök Steam Deck Startup Movie.mp4",
     "tags": []
   },
   {
@@ -2106,13 +2106,13 @@
     "tags": []
   },
   {
-    "name": "Pokémon TCG Live",
+    "name": "PokÃ©mon TCG Live",
     "format": "image",
     "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/TCG.png",
     "tags": []
   },
   {
-    "name": "PokÃ©mon Violet",
+    "name": "PokÃÂ©mon Violet",
     "format": "image",
     "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/pkmviolet.png",
     "tags": []
@@ -2764,6 +2764,12 @@
     "name": "Steam",
     "format": "image",
     "url": "https://raw.githubusercontent.com/ahoin001/wee-images-repo/main/thumbnails/imagen_2025-07-18_194137368.png",
+    "tags": []
+  },
+  {
+    "name": "Steam Spring",
+    "format": "mp4",
+    "url": "https://ahoin001.github.io/wee-images-repo/thumbnails/Steam Deck Startup - Special Delivery.mp4",
     "tags": []
   },
   {
